@@ -1,7 +1,7 @@
 {
-  "name": "@djestick Observer HUD",
-  "version": "1.0.1",
-  "author": "@djestick",
+  "name": "@djestick Observer HUD English",
+  "version": "1.0.0",
+  "author": "@djestick Revise by @Johank20",
   "legacy": false,
   "radar": true,
   "killfeed": false,
