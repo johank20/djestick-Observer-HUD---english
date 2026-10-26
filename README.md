@@ -1,3 +1,7 @@
+> ⚙️ Fork of [djestick-Observer-HUD HUD](https://github.com/djestick/djestick-Observer-HUD)
+
+translated to english
+
 # 🎯 Custom Free Observer HUD for CS2
 
 <p align="center">
@@ -28,26 +32,6 @@ _(Note: the current OpenHUD overlay does not yet support `.webm` animations)_
 - 🔊 **Clutch / 1v1 detector** — shows remaining players & plays custom sound  
 - 🖼️ Smooth CSS animations for transitions and highlights
 
----
-
-## 🧩 Опис
-
-**Безкоштовний кастомний HUD-обсервер** для **Counter-Strike 2**,  
-створений та оптимізований під **OpenHUD v0.3.7**.  
-Також може бути використаний у **Lexogrine HUD Manager**.
-
-> ⚙️ В основі — [Lexogrine React HUD](https://github.com/lexogrine/cs2-react-hud)
-
-## 🎨 Особливості
-
-- 🟦🟥 Використані сині та червоні кольори  
-- 🎥 Команди відображаються з **перспективним ефектом**  
-- 💣 Є **анімація встановлення бомби**  
-_(Зверніть увагу: оверлей OpenHUD ще не підтримує `.webm`-відео)_  
-- 🔊 При **клатч-ситуації або 1v1-ситуації** зʼявляється лічильник живих гравців і грає музика  
-- 🖼️ Плавні CSS-анімації під час переходів
-
----
 
 ## ❤️ Support the Author
 
