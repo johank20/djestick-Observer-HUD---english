@@ -32,7 +32,6 @@ const VetoEntry = ({ veto, teams, active }: IVetoProps) => {
           .join(":")}
       </div>
       <div className="active_container">
-        <div className="active">ЗАРАЗ</div>
         <div className="active">Now</div>
       </div>
     </div>
