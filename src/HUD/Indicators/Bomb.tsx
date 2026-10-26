@@ -11,4 +11,3 @@ const Bomb = ({ player }: { player: Player }) => {
   );
 };
 export default Bomb;
-;?
