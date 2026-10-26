@@ -33,6 +33,7 @@ const VetoEntry = ({ veto, teams, active }: IVetoProps) => {
       </div>
       <div className="active_container">
         <div className="active">ЗАРАЗ</div>
+        <div className="active">Now</div>
       </div>
     </div>
   );
@@ -43,9 +44,9 @@ const MapSeries = ({ match, teams, isFreezetime, map }: IProps) => {
   return (
     <div className={`map_series_container ${isFreezetime ? "show" : "hide"}`}>
       <div className="title_bar">
-        <div className="picked">Обрано</div>
-        <div className="winner">Перемога</div>
-        <div className="score">Рахунок</div>
+        <div className="picked">Selected</div>
+        <div className="winner">Victory</div>
+        <div className="score">Score</div>
       </div>
       {match.vetos
         .filter((veto) => veto.type !== "ban")

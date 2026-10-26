@@ -33,7 +33,7 @@ const WinAnnouncement = ({
           lineHeight: "1",
         }}
       >
-        ПЕРЕМАГАЄ В РАУНДІ
+       WINS THE ROUND
       </span>
     </div>
   );
